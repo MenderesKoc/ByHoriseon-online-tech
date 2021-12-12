@@ -2,10 +2,12 @@
 
   Readme file for ByHoriseon-online-tech repo. 
 
-    *HTML,CSS Web Page :writing_hand:
-    *HTML cheatSheet @octocat :+1:
-    *Css sample Syntax @octocat :+1:
-    *WAI Sample wrok @octocat :+1:
+    *HTML,CSS Web Page
+    *HTML cheatSheet
+    *Css sample Syntax
+    *WAI Sample wrok
+
+  
 
 ## Some Link For Documentation HTML.CSS
 
