@@ -7,7 +7,6 @@
     *Css sample Syntax
     *WAI Sample wrok
 
-  
 
 ## Some Link For Documentation HTML.CSS
 
@@ -16,3 +15,10 @@
 [CSS Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
 [W3C WAI](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+
+
+
+##SS
+
+![alt text](assets/images/screenshot.png)
